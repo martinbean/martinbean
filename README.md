@@ -1,14 +1,19 @@
 Hi! :wave:
 
-I’m Martin Bean, an experienced software engineer and web developer based in the UK. I currently lead of a team of developers at a product company called [OpenPlay][1]. Prior to this, I worked at [Pfizer][2], first as part of their DevOps team before moving into a tech lead role, where I directed two company-wide transformation and consolidation projects.
+I’m Martin Bean, an experienced web developer and team lead based in the UK. Day to day I work with PHP, Laravel, JavaScript and TypeScript, and AWS.
 
-Outside of my full time role I run [Your Fight Site][3]. Under its banner I operate two services targeting professional wrestling and combat sport promoters: a website builder called Your Fight Site CMS, and a video on demand marketplace called [Your Fight Site VOD][4].
+I have over 15 years’ experience in building web-based solutions and APIs for companies of all sizes, from start-ups to Fortune 500 companies.
 
-In my spare time I dabble in reverse engineering video games, specifically PlayStation® 1. This has been a hugely interesting endeavour for me, going from knowing little about computer architecture and hardware to learning concepts like CPUs and registers, as well as assembly and the C programming language, and also just how video games were actually made in that time period.
+Outside of my full time role I run a company called [Your Fight Site][1], where I help independent professional wrestling and combat sport promoters through two products: a multi-tenant CMS, and a video on demand platform called [Your Fight Site VOD][2]
 
-I’m a lifelong learner with a thirst for knowledge, and enjoy sharing this knowledge. I’m active in communities such as Stack Overflow and the Laracasts forums, and I now share this knowledge in my current role as a team lead.
+In my spare time I pursue an interest in reverse engineering, particularly PlayStation&reg; 1 video games. This has been a hugely interesting and rewarding endeavour, where I’ve gone from knowing little about a computer’s internals to gaining a high-level understanding of hardware architecture, CPUs and registers, and both MIPS assembly and the C programming language.
 
-[1]: https://openplay.net
-[2]: https://pfizer.com
-[3]: https://www.yourfightsite.com
-[4]: https://vod.yourfightsite.com
+I’m a lifelong learner with a thirst for knowledge, and enjoy sharing this knowledge and enthusiam in both my work and my spare time. I’m also active in developer communities such as [Stack Overflow][3] and the [Laracasts forums][4]
+
+If you think I would make a great addition to your team, then I’m open to new roles and project engagements. Feel free to [contact me][5] and let’s chat!
+
+[1]: https://www.yourfightsite.com/
+[2]: https://vod.yourfightsite.com/
+[3]: https://stackoverflow.com/users/102205/martin-bean?tab=profile
+[4]: https://laracasts.com/@martinbean
+[4]: https://martinbean.dev/contact
