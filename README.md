@@ -10,10 +10,9 @@ In my spare time I pursue an interest in reverse engineering, particularly PlayS
 
 I’m a lifelong learner with a thirst for knowledge, and enjoy sharing this knowledge and enthusiam in both my work and my spare time. I’m also active in developer communities such as [Stack Overflow][3] and the [Laracasts forums][4]
 
-If you think I would make a great addition to your team, then I’m open to new roles and project engagements. Feel free to [contact me][5] and let’s chat!
-
 [1]: https://www.yourfightsite.com/
 [2]: https://vod.yourfightsite.com/
 [3]: https://stackoverflow.com/users/102205/martin-bean?tab=profile
 [4]: https://laracasts.com/@martinbean
 [5]: https://martinbean.dev/contact
+[6]: https://www.bauermedia.com
