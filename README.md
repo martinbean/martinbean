@@ -1,8 +1,8 @@
-Hi! :wave:
+Hello! :wave:
 
 I’m Martin Bean, an experienced web developer and team lead based in the UK. Day to day I work with PHP, Laravel, JavaScript and TypeScript, and AWS.
 
-I have over 15 years’ experience in building web-based solutions and APIs for companies of all sizes, from start-ups to Fortune 500 companies.
+I have over 15 years’ experience in building web-based solutions and APIs for companies of all sizes, from start-ups to Fortune 500s. I currently work for [Bauer Media Group][6] as a senior platform engineer.
 
 Outside of my full time role I run a company called [Your Fight Site][1], where I help independent professional wrestling and combat sport promoters through two products: a multi-tenant CMS, and a video on demand platform called [Your Fight Site VOD][2]
 
@@ -15,4 +15,4 @@ I’m a lifelong learner with a thirst for knowledge, and enjoy sharing this kno
 [3]: https://stackoverflow.com/users/102205/martin-bean?tab=profile
 [4]: https://laracasts.com/@martinbean
 [5]: https://martinbean.dev/contact
-[6]: https://www.bauermedia.com
+[6]: https://www.bauermedia.com/
